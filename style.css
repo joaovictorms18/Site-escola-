@@ -24,3 +24,7 @@ padding:24px 0;
     background-image: linear-gradient(rgb(15, 223, 223), rgb(255,255,255)) 
 }
 .estudante-imagem{width: 25%;}
+
+.estudante-icone{
+    width: 15%;
+}
